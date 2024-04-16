@@ -2,7 +2,7 @@
 
 Crea una aplicación para buscar películas
 
-API a usar: - [text](https://developers.giphy.com/docs/api)
+API a usar: - [documentacion](https://developers.giphy.com/docs/api)
 
 ULR_SEARCH = `https://api.giphy.com/v1/gifs/search?api_key=${API_KEY}&q=${search}&limit=10`
 
