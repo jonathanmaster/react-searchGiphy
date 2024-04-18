@@ -17,7 +17,7 @@ Requerimientos:
 Primera iteración:
 
 - [x] Evitar que se haga la misma búsqueda dos veces seguidas.
-- [] Haz un boton para ordernar
+- [x] Haz un boton para ordernar
 - [] Haz que la búsqueda se haga automáticamente al escribir.
 - [] Evita que se haga la búsqueda continuamente al escribir (debounce)
 
